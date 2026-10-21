@@ -18,7 +18,7 @@ namespace LapTrinhWindowsForm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Chuong5.BaiTap.BT2());
+            Application.Run(new Chuong6.BaiTap.BT2());
         }
     }
 }

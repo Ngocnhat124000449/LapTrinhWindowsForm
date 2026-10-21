@@ -292,6 +292,48 @@
     <Compile Include="Chuong5\ViDu\VD6.Designer.cs">
       <DependentUpon>VD6.cs</DependentUpon>
     </Compile>
+    <Compile Include="Chuong6\BaiTap\BT1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chuong6\BaiTap\BT1.Designer.cs">
+      <DependentUpon>BT1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chuong6\BaiTap\BT2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chuong6\BaiTap\BT2.Designer.cs">
+      <DependentUpon>BT2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chuong6\BaiTap\BT2_TraLoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chuong6\BaiTap\BT2_TraLoi.Designer.cs">
+      <DependentUpon>BT2_TraLoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chuong6\ViDu\VD1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chuong6\ViDu\VD1.Designer.cs">
+      <DependentUpon>VD1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chuong6\ViDu\VD2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chuong6\ViDu\VD2.Designer.cs">
+      <DependentUpon>VD2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chuong6\ViDu\VD3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chuong6\ViDu\VD3.Designer.cs">
+      <DependentUpon>VD3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Chuong6\ViDu\VD4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Chuong6\ViDu\VD4.Designer.cs">
+      <DependentUpon>VD4.cs</DependentUpon>
+    </Compile>
     <Compile Include="Constraints\BusinessConstraints.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -440,6 +482,27 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Chuong5\ViDu\VD6.resx">
       <DependentUpon>VD6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chuong6\BaiTap\BT1.resx">
+      <DependentUpon>BT1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chuong6\BaiTap\BT2.resx">
+      <DependentUpon>BT2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chuong6\BaiTap\BT2_TraLoi.resx">
+      <DependentUpon>BT2_TraLoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chuong6\ViDu\VD1.resx">
+      <DependentUpon>VD1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chuong6\ViDu\VD2.resx">
+      <DependentUpon>VD2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chuong6\ViDu\VD3.resx">
+      <DependentUpon>VD3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Chuong6\ViDu\VD4.resx">
+      <DependentUpon>VD4.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LamQuen\VD1.resx">
       <DependentUpon>VD1.cs</DependentUpon>
